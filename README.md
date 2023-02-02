@@ -6,4 +6,6 @@ A curated list of awesome AI countermeasures - tools for detecting AI-generated 
 
 ## Commercial products
 
+## Tutorials (e.g. YouTube)
+
 ## Research papers
