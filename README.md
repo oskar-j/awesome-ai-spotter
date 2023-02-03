@@ -22,4 +22,6 @@ A curated list of awesome AI countermeasures - tools for detecting AI-generated 
 
 ## Research papers
 
-## Obsolete (no more working)
+## Obsolete (no more valid)
+
+* [GPT-2 Output Detector Demo](https://openai-openai-detector.hf.space/) - This is an online demo of the GPT-2 output detector model, based on the 🤗/Transformers implementation of RoBERTa.
