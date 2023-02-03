@@ -2,6 +2,10 @@
 
 A curated list of awesome AI countermeasures - tools for detecting AI-generated content. In response to the popularity and not too shabby accuracy of the  **ChatGPT**, we present a collection of resources to make for spotting machine-generated content. Collected and manually curated by @oskar-j
 
+## Official documentation
+
+* [Educator considerations for ChatGPT](https://platform.openai.com/docs/chatgpt-education) - This page provides a brief overview for educators seeking to learn more about the capabilities, limitations, and considerations for using ChatGPT for teaching and learning. 
+
 ## Frameworks and libraries
 
 ## Deep learning models at Huggingface
