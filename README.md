@@ -5,7 +5,6 @@ A curated list of awesome AI countermeasures - tools for detecting AI-generated 
 ## Official documentation
 
 * [Educator considerations for ChatGPT](https://platform.openai.com/docs/chatgpt-education) - This page provides a brief overview for educators seeking to learn more about the capabilities, limitations, and considerations for using ChatGPT for teaching and learning. 
-* [ai-text-classifier](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/) - New AI classifier for indicating AI-written text **(from OpenAI)**.
 
 ## Frameworks and libraries
 
@@ -27,3 +26,5 @@ A curated list of awesome AI countermeasures - tools for detecting AI-generated 
 * [GPT-2 Output Detector Demo](https://openai-openai-detector.hf.space/) - This is an online demo of the GPT-2 output detector model, based on the 🤗/Transformers implementation of RoBERTa.
 
 * [GPTZero](https://gptzero.me/) - A tool which classifies the text basing on the 'Perplexity' (randomness) and 'Burstiness' (variation) scores.
+
+* [ai-text-classifier](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/) - New AI classifier for indicating AI-written text **(from OpenAI)**.
