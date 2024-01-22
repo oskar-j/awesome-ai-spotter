@@ -12,6 +12,7 @@ A curated list of awesome AI countermeasures - tools for detecting AI-generated 
 ## Deep learning models at Huggingface
 
 * [Hello-SimpleAI/chatgpt-detector-roberta](https://huggingface.co/Hello-SimpleAI/chatgpt-detector-roberta) - The base checkpoint is roberta-base. We train it with all [Hello-SimpleAI/HC3](https://huggingface.co/datasets/Hello-SimpleAI/HC3) data (without held-out) for 1 epoch.
+* [RoBERTa Base OpenAI Detector](https://huggingface.co/openai-community/roberta-base-openai-detector)
 
 ## Commercial products and/or freeware
 
