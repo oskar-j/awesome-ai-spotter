@@ -21,6 +21,7 @@ A curated list of awesome AI countermeasures - tools for detecting AI-generated 
 ## Tutorials (e.g. YouTube)
 
 ## Research papers
+* [GLTR: Statistical Detection and Visualization of Generated Text](https://arxiv.org/abs/1906.04043)
 
 ## Obsolete (no more valid)
 
