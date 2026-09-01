@@ -120,4 +120,4 @@ A curated list of awesome AI countermeasures — tools, models, datasets and res
 
 ## Contributing
 
-Contributions are welcome! Found a great detector, model, dataset or paper that's missing — or a link that has gone stale? Open an issue or a pull request.
+Contributions are welcome! Found a great detector, model, dataset or paper that's missing — or a link that has gone stale? Open an issue or a pull request — see the [contribution guidelines](CONTRIBUTING.md).
