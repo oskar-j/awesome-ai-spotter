@@ -68,6 +68,7 @@ A curated list of awesome AI countermeasures — tools, models, datasets and res
 * [Scribbr AI Detector](https://www.scribbr.com/ai-detector/) - Free, no-signup AI detector from the academic proofreading service Scribbr, aimed at students checking text from ChatGPT, Gemini and Copilot.
 * [QuillBot AI Detector](https://quillbot.com/ai-content-detector) - Free AI detector within the QuillBot writing suite that classifies passages as AI-generated, AI-refined or human-written.
 * [Grammarly AI Detector](https://www.grammarly.com/ai-detector) - Free AI checker built into Grammarly's writing suite, complemented by its Authorship feature that records how a document was composed.
+* [Coda One](https://www.codaone.ai/ai-detector/) - Free AI text detector with no signup and no daily limit, highlighting the sentences that read as machine-written.
 
 ## Image, video and audio deepfake detection
 
