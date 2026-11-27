@@ -36,6 +36,7 @@ A curated list of awesome AI countermeasures — tools, models, datasets and res
 * [RADAR](https://github.com/IBM/RADAR) - IBM's NeurIPS 2023 framework that trains an AI-text detector via adversarial learning against a paraphraser, for robustness to paraphrasing attacks.
 * [GLTR](https://github.com/HendrikStrobelt/detecting-fake-text) - MIT-IBM Watson AI Lab and HarvardNLP tool (ACL 2019) that visualizes per-token language-model probabilities to help humans spot statistically generated text.
 * [LLM-DetectAIve](https://github.com/mbzuai-nlp/LLM-DetectAIve) - MBZUAI system (EMNLP 2024) for fine-grained detection, classifying text as human-written, machine-generated, machine-humanized or human-written-then-polished.
+* [SlopTotal](https://github.com/pablocaeg/sloptotal) - Self-hosted, MIT-licensed AI text detector that runs 23 open detectors (including Binoculars, Fast-DetectGPT and GLTR-style statistics) and calibrates them into one score, with its false-positive rate on pre-ChatGPT human writing published on an open benchmark.
 
 ## Deep learning models at Huggingface
 
